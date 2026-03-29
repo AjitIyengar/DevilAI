@@ -35,7 +35,7 @@ CONFIG_FILE = "config.json"
 RESPONSES_FILE = "responses.json"
 
 PRIVATE_CHANNEL_ID = 1320402706833084448
-TIMEOUT_SECONDS = 60  
+TIMEOUT_SECONDS = 600  
 
 def load_config():
     if not os.path.exists(CONFIG_FILE):
