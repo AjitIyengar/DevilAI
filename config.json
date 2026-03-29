@@ -1,0 +1,14 @@
+{
+    "token_counter": 1,
+    "requests": {
+        "1": {
+            "message_id": 123456789,
+            "channel_id": 987654321,
+            "user_id": 55555555,
+            "username": "ExampleUser#1234",
+            "text": "what is the capital of France?",
+            "status": "answered",
+            "timestamp": "2026-03-12 10:00:00"
+        }
+    }
+}
