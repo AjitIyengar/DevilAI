@@ -34,7 +34,7 @@ def keep_alive():
 CONFIG_FILE = "config.json"
 RESPONSES_FILE = "responses.json"
 
-PRIVATE_CHANNEL_ID = 1320402706833084448
+PRIVATE_CHANNEL_ID = 1484098395055587388
 TIMEOUT_SECONDS = 600  
 
 def load_config():
